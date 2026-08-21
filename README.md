@@ -1,16 +1,15 @@
-## Hi there 👋
+# Trimui Model S
 
-<!--
-**coffeecore/coffeecore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [Trimui Model S docker dev env](https://github.com/coffeecore/trimui-model-s-toolchain)
 
-Here are some ideas to get you started:
+A docker env to build many Trimui Model S related projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Minui Legacy
+- Standalone emulators
+- Picoarch
+
+[All related repositories](https://github.com/search?q=user%3Acoffeecore+topic%3Atrimui-model-s+fork%3Atrue&type=repositories)
+
+## [ESP32 Music step sequencer](https://github.com/coffeecore/esp32stepseq)
+
+A ESP32 project to build a step sequencer, based on an OLED screen, 4x4 matrix buttons and 2 rotary encoders
